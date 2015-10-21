@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ex4D:plugin xmlns:ex4D="http://www.4d.com/plugin">  <!--4D Write-->  <ex4D:documentation name="4D Write" plugin-id="12000">    <ex4D:plugin-description>      <!-- write documentation for 4D Write here -->    </ex4D:plugin-description>    <ex4D:commands/>  </ex4D:documentation></ex4D:plugin>
